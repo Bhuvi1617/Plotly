@@ -8,4 +8,6 @@ Modules used:
 3. pandas 
 4. xlrd
 
+To gain an understanding of the elements of the code:
+
 ![image](https://github.com/ComplilerQueen/Plotly/assets/134070992/75b40969-d687-4cd0-b954-d3a412b87d16)
